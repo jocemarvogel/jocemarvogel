@@ -2,7 +2,7 @@
 <p>
 📝 - Estudando Javascript.
 </p><p>
-🧑‍🎓 - Conhecimento em Html5 e Css3.
+🎓 - Conhecimento em Html5 e Css3.
 </p>
 
 <p aling="left">
