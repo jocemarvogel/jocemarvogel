@@ -1,4 +1,4 @@
-# :v: Olá, sou @jocemarvogel
+# :v: Olá, sou Jocemar
 <p>
 📝 - Estudando Javascript.
 </p><p>
