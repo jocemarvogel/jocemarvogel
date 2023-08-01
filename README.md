@@ -1,6 +1,6 @@
 # :v: Olá, sou Jocemar
 <p>
-📝 - Estudando Javascript.
+📝 - Estudando Javascript e conseitos de Banco de dados.
 </p><p>
 🎓 - Conhecimento em Html5 e Css3.
 </p>
